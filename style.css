@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+
+
+
+
+
+h4{
+    /*border: 1px solid;*/
+    display:inline;
+    background-color:
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    text-align: left justify;
+}
+
+/*hr{
+    width:12em;
+    margin:2em;
+    margin-left:10em;
+}*/
+p{
+    font-family:Arial sans-serif;
+    font-weight: normal;
+    text-align: left justify;
+    font-size: 14px;
+    
+ 
+    font-display: swap;
+    
+    
+}
+
