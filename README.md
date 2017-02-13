@@ -12,3 +12,14 @@ l'usage de l'informatique est devenu incontournable dans le monde de la musique,
 https://soundcloud.com/axelbrb/pnl-ademo-mowgli#t=2:56
 
 <link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+
+
+
+On peut aussi prendre exemple sur le groupe daft punk, Ils font partie des artistes français s'exportant le mieux à l'étranger,
+Il ont style tres electronique, a un tel point que dans la plupart des morceau on ne distingue aucune phrase distinct tellement ils usent de son electronique.
+
+<span class="soundcite" data-id="92297366" data-start="80000" data-end="124830" data-plays="1">listen</span>
+
+<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+
+
